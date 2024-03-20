@@ -28,4 +28,4 @@ Validation outcomes demonstrate the robustness and adaptability of  proposed sys
 1)Harshita (@sriharshitha07) <br>
 2)Medhovarsh Bayyapureddi (@Medhovarsh) <br>
 3)A Supreeth Gupta (@supre234) <br>
-4)A Karthik (Karthik554) <br>
+4)A Karthik (@Karthik554) <br>
