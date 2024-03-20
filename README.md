@@ -12,6 +12,14 @@ The proposed approach leverages deep learning architectures, specifically ResNet
 # Implementation<br>
 The implementation consists of:<br>
 
-Data preprocessing: Preparing the dataset containing drone intrusion scenarios and image-mask pairs.
-Model training: Training ResNet50 and DeepLabV3 architectures on the dataset, enhanced with the focal loss function.
-Evaluation: Assessing the performance of the trained models on test data to measure their effectiveness in detecting drone intrusions.
+1.Data preprocessing: Preparing the dataset containing drone intrusion scenarios and image-mask pairs.<br>
+2.Model training: Training ResNet50 and DeepLabV3 architectures on the dataset, enhanced with the focal loss function.<br>
+3.Evaluation: Assessing the performance of the trained models on test data to measure their effectiveness in detecting drone intrusions.<br>
+# Results<br>
+The evaluation metrics used in the code are precision,recall,mIou. Precision measures the accuracy of positive predictions, while recall evaluates the model's ability to detect all positive instances.Additionally, the mIoU metric assesses the accuracy of segmentation masks by considering the overlap between predicted and ground truth masks.<br>
+
+The proposed methodology outperformed the previous highest mAP of 0.66, achieving an impressive mAP of 0.97887. This indicates the superior performance and effectiveness of the approach in drone detection tasks, highlighting the significance of incorporating advanced architectural features such as DSPP for improved object detection accuracy.<br>
+
+# Conclusion
+In summary, this study offers a thorough investigation into a drone detection system that utilises the Dilated Spatial Pyramid Pooling (DSPP) module, integrated within a ResNet50 architecture and DeepLabV3 semantic segmentation framework. Through extensive experimentation and evaluation, the proposed system shows promising results in accurately identifying drones within aerial imagery across a range of environmental conditions.
+Validation outcomes demonstrate the robustness and adaptability of  proposed system, consistently achieving high precision, recall, and mean Intersection over Union (mIoU) scores across various environmental settings.
