@@ -25,7 +25,7 @@ In summary, this study offers a thorough investigation into a drone detection sy
 Validation outcomes demonstrate the robustness and adaptability of  proposed system, consistently achieving high precision, recall, and mean Intersection over Union (mIoU) scores across various environmental settings.
 
 # Contributors
-1)Harshita (@sriharshitha07)
-2)Medhovarsh Bayyapureddi (@Medhovarsh)
-3)A Supreeth Gupta (@supre234)
-4)A Karthik (Karthik554)
+1)Harshita (@sriharshitha07) <br>
+2)Medhovarsh Bayyapureddi (@Medhovarsh) <br>
+3)A Supreeth Gupta (@supre234) <br>
+4)A Karthik (Karthik554) <br>
