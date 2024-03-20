@@ -23,3 +23,9 @@ The proposed methodology outperformed the previous highest mAP of 0.66, achievin
 # Conclusion
 In summary, this study offers a thorough investigation into a drone detection system that utilises the Dilated Spatial Pyramid Pooling (DSPP) module, integrated within a ResNet50 architecture and DeepLabV3 semantic segmentation framework. Through extensive experimentation and evaluation, the proposed system shows promising results in accurately identifying drones within aerial imagery across a range of environmental conditions.
 Validation outcomes demonstrate the robustness and adaptability of  proposed system, consistently achieving high precision, recall, and mean Intersection over Union (mIoU) scores across various environmental settings.
+
+# Contributors
+1)Harshita (@sriharshitha07)
+2)Medhovarsh Bayyapureddi (@Medhovarsh)
+3)A Supreeth Gupta (@supre234)
+4)A Karthik (Karthik554)
